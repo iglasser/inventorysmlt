@@ -7,5 +7,5 @@ comets
 jupyter
 ipywidgets
 ipycanvas
-opencv-python
+opencv-python-headless
 voila
