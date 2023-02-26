@@ -7,6 +7,5 @@ comets
 jupyter
 ipywidgets
 ipycanvas
-io
-cv2
+opencv-python
 voila
