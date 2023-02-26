@@ -1,0 +1,12 @@
+scipy
+numpy
+pandas
+matplotlib
+ipympl
+comets
+jupyter
+ipywidgets
+ipycanvas
+io
+cv2
+voila
